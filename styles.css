@@ -1,24 +1,55 @@
-body{
-    margin-left: 280px;
-    margin-right: 150px;
-}
-body{
-    font-family: cursive;
-}
 
 body{
+    padding-left: 230px;
+    padding-right: 230px;
     background-image: url(https://previews.123rf.com/images/peekeedee1/peekeedee11903/peekeedee1190300198/119041709-old-paper-texture-vintage-paper-background-or-texture.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 100%;   
-}
-body{
-    color: black;
-}
-body{
-    font-size: x-large;
+    background-size: 100%;  
 }
 
+p {
+    font-size: x-large;
+    color: black;
+    font-family: fantasy;
+}
+
+
+.Tom{
+    font-family: fantasy;
+    padding-left: 430px;
+    padding-right: 430px;
+    border-style: solid;
+    text-align: center;
+    
+
+}
+.Adam{
+    font-family: fantasy;
+    text-align: center;
+ 
+
+}
+
+
+
+.Steve{
+    text-align: center;
+
+}
+.Bob{
+    font-family: fantasy;
+    text-align: center;
+}
+
+.c{
+    font-family: fantasy;
+    text-align: center;
+}
+.k{
+    font-family: fantasy;
+    text-align: center;
+}
 
 
 
